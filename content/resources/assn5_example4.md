@@ -2,8 +2,13 @@
 content_type: resource
 description: Example of student work for an assignment on the design and fabrication
   of ornamental structures.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-510-digital-design-fabrication-fall-2008/88f39f9b5583cd0579a4346758b9cef6_assn5_example4.pdf
+file: /media/courses/4-510-digital-design-fabrication-fall-2008/88f39f9b5583cd0579a4346758b9cef6_assn5_example4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Assignment 5, Example 4
 uid: 88f39f9b-5583-cd05-79a4-346758b9cef6
