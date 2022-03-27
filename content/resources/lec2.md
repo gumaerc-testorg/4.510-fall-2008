@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40615e59-88b5-296a-c408-7713576f0db1
 resourcetype: Document
 title: Background on Design and Digital Manufacturing
 uid: 99348f1a-82d1-8474-e32a-874b4841e45a

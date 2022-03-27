@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7d2043f0-7601-4fc2-45dd-423421181f3b
 resourcetype: Document
 title: A Classic Rocker for the Working Urbanite
 uid: e43c6984-cc79-5d67-cf7e-bda547731f59

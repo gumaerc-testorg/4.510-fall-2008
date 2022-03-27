@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7d2043f0-7601-4fc2-45dd-423421181f3b
 resourcetype: Document
 title: polka dot matrix:An Exploration of Variation and Parametricization
 uid: f62620a2-b736-8b39-8ec6-5ab9b4dde414

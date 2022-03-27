@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 277c3119-db57-9d4a-6227-70f572fe229f
 resourcetype: Document
 title: 'Assignment #1 Addendum'
 uid: 14dd95df-f0d1-6dff-7638-0e4776a41373

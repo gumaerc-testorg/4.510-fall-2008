@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40615e59-88b5-296a-c408-7713576f0db1
 resourcetype: Document
 title: Rapid Prototyping
 uid: 78963924-f7e3-33c2-cb28-10dfd3cba712

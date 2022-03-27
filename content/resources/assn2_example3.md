@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7d2043f0-7601-4fc2-45dd-423421181f3b
 resourcetype: Document
 title: Assignment 2, Example 3
 uid: cf660fc1-e3e0-b5f3-2ff2-c7e35a6031ab

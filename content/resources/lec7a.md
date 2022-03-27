@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40615e59-88b5-296a-c408-7713576f0db1
 resourcetype: Document
 title: Design, Computation and Computer Controlled Devices
 uid: a66dab3f-fd4b-04c1-1cc4-283016947299

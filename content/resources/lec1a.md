@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40615e59-88b5-296a-c408-7713576f0db1
 resourcetype: Document
 title: Materializing Design
 uid: 1cddee3d-e925-eda9-c91a-8c5a2ea8afbf
