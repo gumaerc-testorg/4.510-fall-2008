@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains the six assignments and instructions for the final
+  project and presentation.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 277c3119-db57-9d4a-6227-70f572fe229f
 ---
@@ -36,7 +41,7 @@ CNC manufacturing
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/assn1a)) ([PDF 2]({{< baseurl >}}/resources/assn1b))
+({{% resource_link ac46b4cf-46b6-6481-1962-6f31dc78ecdb "PDF 1" %}}) ({{% resource_link 14dd95df-f0d1-6dff-7638-0e4776a41373 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ CNC manufacturing
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn2))
+({{% resource_link cdfc89b0-7e49-1089-daa2-b265b01bf42f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +79,7 @@ CNC manufacturing
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/assn3))
+({{% resource_link 01b4c285-8e6b-f6c9-3202-0458b5184e31 "PDF" %}})
 
 Marks, Alan. "On Making Chairs Comfortable: How to Fit the Seat to the Sitter." _Fine Woodworking_, date unknown.
 
@@ -98,7 +103,7 @@ Generative / fabrication
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn4))
+({{% resource_link 64b25284-124c-1ff4-d88a-92d360636c9b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +121,7 @@ Modeling and rapid prototyping
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn5))
+({{% resource_link 6f3ef2e5-f1ef-3430-0dcd-89c1a25be4cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +139,7 @@ Water jet and laser cutting
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn6))
+({{% resource_link 8359913d-7b84-1580-dc21-f6c4a05b4a73 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,6 +149,6 @@ Water jet and laser cutting
 Final Project
 -------------
 
-Term project ([PDF]({{< baseurl >}}/resources/term_project))
+Term project ({{% resource_link c850e47e-0459-160f-3625-7bbac4e83bba "PDF" %}})
 
-Final presentation ([PDF]({{< baseurl >}}/resources/presentation))
+Final presentation ({{% resource_link 22e4795e-9bfb-d788-3956-ef6982dbcefe "PDF" %}})

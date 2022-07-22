@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics along with selected
+  notes from the first two sessions.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 208028f6-b6be-5b63-3718-6897a2277b90
 ---
@@ -24,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-AutoCAD and CNC basics ([PDF]({{< baseurl >}}/resources/rec1))
+AutoCAD and CNC basics ({{% resource_link 0668aab4-383e-1f36-3a5b-bb9fe7b631d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ AutoCAD and CNC basics ([PDF]({{< baseurl >}}/resources/rec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-AutoCAD 3D and EZCam ([PDF]({{< baseurl >}}/resources/rec2))
+AutoCAD 3D and EZCam ({{% resource_link 4d347ef4-c37a-a95f-7b1f-7e3889c878e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
