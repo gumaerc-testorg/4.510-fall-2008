@@ -6,6 +6,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/a58f663fb6506118cd9309
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 2, Example 4
 uid: a58f663f-b650-6118-cd93-09374faedd0d
 ---
 Example of student work for an assignment on the digital design and fabrication of a shoebox.
-

@@ -6,6 +6,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/4d193efadbbccb9a5eddcc
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 3, Example 2
 uid: 4d193efa-dbbc-cb9a-5edd-ccebc1c676f0
 ---
 Example of student work for an assignment on the design and fabrication of a plywood chair.
-

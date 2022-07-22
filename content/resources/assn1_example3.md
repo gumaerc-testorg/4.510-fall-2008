@@ -5,6 +5,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/e5d52d6e10ea7698d02220
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment 1, Example 3
 uid: e5d52d6e-10ea-7698-d022-20843f61445f
 ---
 Example of student work for an assignment on digital design and fabrication.
-

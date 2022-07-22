@@ -6,6 +6,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/5dedf410433414bfbeadb0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ornamental structures
 uid: 5dedf410-4334-14bf-bead-b08f32137fe5
 ---
 Example of student work for an assignment on the design and fabrication of ornamental structures.
-

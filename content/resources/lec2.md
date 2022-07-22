@@ -5,6 +5,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/99348f1a82d18474e32a87
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Background on Design and Digital Manufacturing
 uid: 99348f1a-82d1-8474-e32a-874b4841e45a
 ---
 Lecture presentation providing a background on design and digital manufacturing.
-

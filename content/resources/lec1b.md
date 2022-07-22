@@ -5,6 +5,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/27954539695441b0893813
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: CAD Functions
 uid: 27954539-6954-41b0-8938-1371a81b9a5b
 ---
 Lecture presentation on CAD functions and drafting.
-

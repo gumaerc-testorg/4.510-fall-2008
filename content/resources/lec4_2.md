@@ -6,6 +6,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/61cdbcf05cddb67987c266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assembly Design
 uid: 61cdbcf0-5cdd-b679-87c2-661226d08c6f
 ---
 Lecture presentation on assembly design, manufacturing, and errors in fabrication.
-

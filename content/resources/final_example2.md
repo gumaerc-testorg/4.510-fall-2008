@@ -5,6 +5,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/039037e5c0da417901cfb9
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Digital Fabrication for Quick Assembly
 uid: 039037e5-c0da-4179-01cf-b9131a7c539f
 ---
 Example of student work for a final project on digital design fabrication.
-

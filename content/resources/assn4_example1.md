@@ -6,6 +6,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/e8ee2ba715ca6eb0bbbf65
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Assignment 4, Example 1
 uid: e8ee2ba7-15ca-6eb0-bbbf-651d98651374
 ---
 Example of student work for an assignment to design and prototype a building form and function in CAD and as a solid object.
-

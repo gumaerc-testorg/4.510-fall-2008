@@ -5,6 +5,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/6f3ef2e5f1ef34300dcd89
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment 5
 uid: 6f3ef2e5-f1ef-3430-0dcd-89c1a25be4cb
 ---
 Assignment on the design and fabrication of ornamental structures.
-

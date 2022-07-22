@@ -5,6 +5,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/01b4c2858e6bf6c9320204
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Assignment 3
 uid: 01b4c285-8e6b-f6c9-3202-0458b5184e31
 ---
 Assignment on the design and fabrication of a plywood chair.
-

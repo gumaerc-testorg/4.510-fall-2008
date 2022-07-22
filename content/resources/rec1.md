@@ -6,6 +6,7 @@ file: /courses/4-510-digital-design-fabrication-fall-2008/0668aab4383e1f363a5bbb
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Recitation 1
 uid: 0668aab4-383e-1f36-3a5b-bb9fe7b631d8
 ---
 Recitation notes on using AutoCAD, Photoshop,  EXCam, and Techno CNC software.
-
