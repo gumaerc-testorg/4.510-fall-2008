@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on digital design and fabrication of a name tag.
 file: /courses/4-510-digital-design-fabrication-fall-2008/ac46b4cf46b6648119626f31dc78ecdb_assn1a.pdf
+file_size: 208257
 file_type: application/pdf
 learning_resource_types:
 - Assignments

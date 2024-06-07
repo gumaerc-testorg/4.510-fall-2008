@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on digital fabrication, generative fabrication,
   and digitally manufactured housing.
 file: /courses/4-510-digital-design-fabrication-fall-2008/83c19837833ac0a540f87da461edfbc3_lec7b.pdf
+file_size: 1581965
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

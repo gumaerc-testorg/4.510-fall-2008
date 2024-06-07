@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for an assignment on the digital design and fabrication
   of a shoebox.
 file: /courses/4-510-digital-design-fabrication-fall-2008/a58f663fb6506118cd9309374faedd0d_assn2_example4.pdf
+file_size: 588558
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment to design and prototype a building form and function in CAD
   and as a solid object.
 file: /courses/4-510-digital-design-fabrication-fall-2008/64b25284124c1ff4d88a92d360636c9b_assn4.pdf
+file_size: 111537
 file_type: application/pdf
 learning_resource_types:
 - Assignments
