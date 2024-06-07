@@ -3,6 +3,7 @@ content_type: resource
 description: Example of student work for an assignment to design and prototype a building
   form and function in CAD and as a solid object.
 file: /courses/4-510-digital-design-fabrication-fall-2008/e8ee2ba715ca6eb0bbbf651d98651374_assn4_example1.pdf
+file_size: 1635562
 file_type: application/pdf
 learning_resource_types:
 - Projects

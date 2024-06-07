@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on rapid prototyping, digital printing, and digital
   fabrication.
 file: /courses/4-510-digital-design-fabrication-fall-2008/78963924f7e333c2cb2810dfd3cba712_lec7c.pdf
+file_size: 3538601
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
