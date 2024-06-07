@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on design, computation, computer controlled devices,
   and materializing.
 file: /courses/4-510-digital-design-fabrication-fall-2008/a66dab3ffd4b04c11cc4283016947299_lec7a.pdf
+file_size: 573216
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

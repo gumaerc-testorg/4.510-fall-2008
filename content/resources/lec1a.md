@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on digital fabrication for architects.
 file: /courses/4-510-digital-design-fabrication-fall-2008/1cddee3de925eda9c91a8c5a2ea8afbf_lec1a.pdf
+file_size: 1970754
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
