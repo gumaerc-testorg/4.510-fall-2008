@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on the design and fabrication of ornamental structures.
-file: /courses/4-510-digital-design-fabrication-fall-2008/6f3ef2e5f1ef34300dcd89c1a25be4cb_assn5.pdf
+file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/6f3ef2e5f1ef34300dcd89c1a25be4cb_assn5.pdf
 file_size: 210020
 file_type: application/pdf
 learning_resource_types:
