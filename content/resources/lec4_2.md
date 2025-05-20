@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on assembly design, manufacturing, and errors in
   fabrication.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/61cdbcf05cddb67987c2661226d08c6f_lec4_2.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/61cdbcf05cddb67987c2661226d08c6f_lec4_2.pdf
 file_size: 9123660
 file_type: application/pdf
 learning_resource_types:

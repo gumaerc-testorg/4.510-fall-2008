@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment on error detection and correction prototyping for digital
   design fabrication.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/8359913d7b841580dc21f6c4a05b4a73_assn6.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/8359913d7b841580dc21f6c4a05b4a73_assn6.pdf
 file_size: 42719
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on CAD functions and drafting.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/27954539695441b089381371a81b9a5b_lec1b.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/27954539695441b089381371a81b9a5b_lec1b.pdf
 file_size: 401140
 file_type: application/pdf
 learning_resource_types:

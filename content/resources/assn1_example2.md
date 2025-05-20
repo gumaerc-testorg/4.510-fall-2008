@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for an assignment on digital design and fabrication.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/d0094bccbf8a9df278f8c7c1d212fc3b_assn1_example2.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/d0094bccbf8a9df278f8c7c1d212fc3b_assn1_example2.pdf
 file_size: 1140522
 file_type: application/pdf
 learning_resource_types:

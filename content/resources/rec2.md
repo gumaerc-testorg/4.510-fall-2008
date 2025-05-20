@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes on AutoCAD 3D and EzCAM.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/4d347ef4c37aa95f7b1f7e3889c878e1_rec2.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/4d347ef4c37aa95f7b1f7e3889c878e1_rec2.pdf
 file_size: 56583
 file_type: application/pdf
 learning_resource_types:

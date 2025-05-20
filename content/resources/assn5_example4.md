@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for an assignment on the design and fabrication
   of ornamental structures.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/88f39f9b5583cd0579a4346758b9cef6_assn5_example4.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/88f39f9b5583cd0579a4346758b9cef6_assn5_example4.pdf
 file_size: 6097873
 file_type: application/pdf
 learning_resource_types:
