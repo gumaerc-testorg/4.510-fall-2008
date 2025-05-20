@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to create a digital pattern.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/14dd95dff0d16dff76380e4776a41373_assn1b.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/14dd95dff0d16dff76380e4776a41373_assn1b.pdf
 file_size: 77896
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on advanced solid modeling.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/39ce5b978e8454608fe12068a2ad196b_lec3.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/39ce5b978e8454608fe12068a2ad196b_lec3.pdf
 file_size: 2028989
 file_type: application/pdf
 learning_resource_types:

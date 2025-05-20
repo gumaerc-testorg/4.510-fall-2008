@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for a final project on digital design fabrication.
-file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/039037e5c0da417901cfb9131a7c539f_final_example2.pdf
+file: /courses/4-510-digital-design-fabrication-fall-2008/039037e5c0da417901cfb9131a7c539f_final_example2.pdf
 file_size: 927328
 file_type: application/pdf
 learning_resource_types:
