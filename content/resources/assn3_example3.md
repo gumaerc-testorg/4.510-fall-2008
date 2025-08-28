@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for an assignment on the design and fabrication
   of a plywood chair.
-file: /courses/4-510-digital-design-fabrication-fall-2008/e43c6984cc795d67cf7ebda547731f59_assn3_example3.pdf
+file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/e43c6984cc795d67cf7ebda547731f59_assn3_example3.pdf
 file_size: 307924
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation providing a background on design and digital manufacturing.
-file: /courses/4-510-digital-design-fabrication-fall-2008/99348f1a82d18474e32a874b4841e45a_lec2.pdf
+file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/99348f1a82d18474e32a874b4841e45a_lec2.pdf
 file_size: 1012162
 file_type: application/pdf
 learning_resource_types:
