@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on the design and fabrication of a plywood chair.
-file: /courses/4-510-digital-design-fabrication-fall-2008/01b4c2858e6bf6c932020458b5184e31_assn3.pdf
+file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/01b4c2858e6bf6c932020458b5184e31_assn3.pdf
 file_size: 197317
 file_type: application/pdf
 learning_resource_types:

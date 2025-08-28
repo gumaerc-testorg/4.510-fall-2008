@@ -2,7 +2,7 @@
 content_type: resource
 description: Final project to create a design proposal illustrating the design and
   science of a new water taxi station.
-file: /courses/4-510-digital-design-fabrication-fall-2008/c850e47e0459160f36257bbac4e83bba_term_project.pdf
+file: /ol-ocw-studio-app/courses/4-510-digital-design-fabrication-fall-2008/c850e47e0459160f36257bbac4e83bba_term_project.pdf
 file_size: 104474
 file_type: application/pdf
 learning_resource_types:
